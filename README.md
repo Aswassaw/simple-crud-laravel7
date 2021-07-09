@@ -1,6 +1,6 @@
 # Simple CRUD Laravel 7
 
-## Simple CRUD Laravel 7?
+## Apa itu Simple CRUD Laravel 7?
 Simple CRUD Laravel 7 latihan saya melakukan CRUD menggunakan Laravel 7.
 
 ## Cara Instalasi
